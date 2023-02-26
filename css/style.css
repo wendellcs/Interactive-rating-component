@@ -18,7 +18,7 @@ body p {font-size: 1.5rem; font-weight: 400; color: var(--fonts-text-color);}
 :root {
     --button-submit-color: hsl(25, 97%, 53%);
     --body-bg-color: hsl(216, 12%, 8%);
-    --bg-color: hsl(213, 19%, 18%);
+    --bg-color: hsl(214, 19%, 15%);
 
     --fonts-color: hsl(0, 0%, 100%);
     --fonts-text-color: hsla(0, 0%, 100%, 0.450);
