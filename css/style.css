@@ -33,7 +33,7 @@ body p {font-size: 1.5rem; font-weight: 400; color: var(--fonts-text-color);}
     width: 40rem;
     height: auto;
     background: var(--bg-color);
-    border-radius: 2rem;
+    border-radius: 3rem;
     padding: 3rem;
 }
 
@@ -43,7 +43,7 @@ body p {font-size: 1.5rem; font-weight: 400; color: var(--fonts-text-color);}
 
 header {
     width: 100%;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
 }
 
 #circle {
@@ -63,7 +63,7 @@ header {
     margin-bottom: 2.5rem;
 }
 
-.text-container h1 {
+.text-container h1 , .text-container h2 {
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 1rem;
@@ -85,7 +85,7 @@ header {
     border-radius: 2rem;
     cursor: pointer;
     transition: 0.3s;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 #form .submit:hover {
